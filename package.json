@@ -1,0 +1,40 @@
+{
+  "name": "shinobuchan",
+  "version": "1.0.0",
+  "description": "Rewriting Shinobu",
+  "main": "shinobu-index.js",
+  "scripts": {
+    "check-packages": "npm list"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coder-Tavi/ShinobuChan.git"
+  },
+  "keywords": [
+    "discord",
+    "discordbot",
+    "bot",
+    "discordjs",
+    "discordjs",
+    "v13"
+  ],
+  "author": "Tavi#0001 on Discord",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Coder-Tavi/ShinobuChan/issues"
+  },
+  "homepage": "https://github.com/Coder-Tavi/ShinobuChan#readme",
+  "dependencies": {
+    "@discordjs/builders": "^0.11.0",
+    "@discordjs/rest": "^0.2.0-canary.0",
+    "ascii-table": "^0.0.9",
+    "discord-api-types": "^0.26.1",
+    "discord.js": "^13.5.1",
+    "fs": "^0.0.1-security",
+    "mysql2": "^2.3.3",
+    "util": "^0.12.4"
+  },
+  "devDependencies": {
+    "eslint": "^8.6.0"
+  }
+}
